@@ -214,6 +214,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = RNIdentityCardCamara;
 				SKIP_INSTALL = YES;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Debug;
 		};
@@ -230,6 +231,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = RNIdentityCardCamara;
 				SKIP_INSTALL = YES;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Release;
 		};
